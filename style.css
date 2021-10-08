@@ -1,0 +1,33 @@
+.grijs {
+    color: #939598;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+p {
+    color: gray;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #e9eaea;
+}
+
+h2 {
+    color: black;
+    font-family: sans-serif;
+}
+
+a {
+    background-color: #f65b5c;
+    padding: 15px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
